@@ -6,8 +6,8 @@
 int main()
 {
     
-    int arr[N][N];
-    int i,j,a=0;
+   int arr[N][N];
+   int i,j,a=0;
 
     for (i = 0; i < N; i++)
     {
